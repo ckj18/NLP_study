@@ -1,4 +1,12 @@
 # NLP 논문 리뷰 및 SNS 기반 개인맞춤 답장 챗봇 제작
 
 ## 1주차 논문 리뷰
-## https://www.notion.so/Numerical-Optimizations-for-Weighted-Low-rank-Estimation-on-Language-Model-b2e18357785341c893cf19104039f55c
+## https://factual-earwig-905.notion.site/Numerical-Optimizations-for-Weighted-Low-rank-Estimation-on-Language-Model-b2e18357785341c893cf19104039f55c
+
+### SNS 데이터 수집 - AI Hub의 한국어 SNS 데이터를 활용
+
+### 데이터 통계
+![image](https://user-images.githubusercontent.com/48816329/211331151-7e2b1bf0-8bba-4f9b-9c4b-92407dffbd64.png)
+
+### 데이터 구축 내용
+![image](https://user-images.githubusercontent.com/48816329/211331558-1225e58f-cab7-4a86-968c-02cd0dd31d15.png)
