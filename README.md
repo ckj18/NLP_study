@@ -19,11 +19,19 @@
 
 ### SNS 데이터 수집 - AI Hub의 한국어 SNS 데이터를 활용
 
-### 데이터 통계
-![image](https://user-images.githubusercontent.com/48816329/211331151-7e2b1bf0-8bba-4f9b-9c4b-92407dffbd64.png)
+### 모듈 import 
+![image](https://user-images.githubusercontent.com/48816329/212818699-91924649-cd19-4440-934b-52e431d78eed.png)
 
-### 데이터 구축 내용
-![image](https://user-images.githubusercontent.com/48816329/211331558-1225e58f-cab7-4a86-968c-02cd0dd31d15.png)
+### 데이터 CSV 파일 확인
+![image](https://user-images.githubusercontent.com/48816329/212818842-f154d4ec-a89e-4709-b1a0-566c0e9e2e89.png)
+
+### 모델 학습을 위한 토큰화 진행
+![image](https://user-images.githubusercontent.com/48816329/212819015-c4d5d99a-233c-4d46-8a6c-7dbc81523666.png)
+
+
+### 라벨링 진행(json 파일)
+![image](https://user-images.githubusercontent.com/48816329/212819104-b0d242d5-caa0-4262-8230-a7a979588138.png)
+
 
 
 
