@@ -32,6 +32,8 @@
 ### 라벨링 진행(json 파일)
 ![image](https://user-images.githubusercontent.com/48816329/212819104-b0d242d5-caa0-4262-8230-a7a979588138.png)
 
+## 3주차 논문 리뷰
+## Federated Model Decomposition with Private Vocabulary for Text Classification: https://www.notion.so/Prompt-Conditioned-VAE-Enhancing-Generative-Replay-for-Lifelong-Learning-in-Task-Oriented-Dialogue-0c6ea5351c89496393a887e46cbe7ec4
 
-
+## RANKGEN Improving Text Generation with Large Ranking Models: https://www.notion.so/RANKGEN-Improving-Text-Generation-with-Large-Ranking-Models-b352811a758d411ba3310add8d40f3e3
 
