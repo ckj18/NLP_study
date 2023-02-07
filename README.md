@@ -37,3 +37,9 @@
 
 ## RANKGEN Improving Text Generation with Large Ranking Models: https://www.notion.so/RANKGEN-Improving-Text-Generation-with-Large-Ranking-Models-b352811a758d411ba3310add8d40f3e3
 
+## 4주차 논문 리뷰
+## Learning Robust Representation for Continual Relation Extraction via Adversarial Class Augmentation: https://www.notion.so/Learning-Robust-Representation-for-Continual-Relation-Extraction-via-Adversarial-Class-Augmentation-ee7ff514aa4849b09b8cd8de2feddcab
+
+## PNEG: Prompt-based Negative Response Generation for Dialogue Response Selection Task: https://www.notion.so/PNEG-Prompt-based-Negative-Response-Generation-for-Dialogue-Response-Selection-Task-a6059fb0f01a46bab4fdf82d2d96c567
+
+
