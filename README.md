@@ -42,4 +42,9 @@
 
 ## PNEG: Prompt-based Negative Response Generation for Dialogue Response Selection Task: https://www.notion.so/PNEG-Prompt-based-Negative-Response-Generation-for-Dialogue-Response-Selection-Task-a6059fb0f01a46bab4fdf82d2d96c567
 
+## 5주차 논문 리뷰
+## GPS: Genetic Prompt Search for Efficient Few-shot Learning: https://www.notion.so/GPS-Genetic-Prompt-Search-for-Efficient-Few-shot-Learning-98da2b9473c34451aa5aa14b2891251a?pvs=4
 
+## Low-resource Interactive Active Labeling for Fine-tuning Language Models: https://www.notion.so/Low-resource-Interactive-Active-Labeling-for-Fine-tuning-Language-Models-91aca1aa6ba0408d965e505cf801aef7?pvs=4
+
+## KECP: Knowledge Enhanced Contrastive Prompting for Few-shot Extractive Question Answering: https://www.notion.so/KECP-Knowledge-Enhanced-Contrastive-Prompting-for-Few-shot-Extractive-Question-Answering-33df619556e24d32aab126832cefb0d9?pvs=4
